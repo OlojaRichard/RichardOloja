@@ -13,9 +13,6 @@
     <a href="https://github.com/OlojaRichard/Part-2-Azure-Cloud-Detection-w-Azure-Sentinel.git">Part 2: Azure Cloud Detection w/ Azure Sentinel</a>
   </b></li>
   <li><b>
-    <a href="https://github.com/OlojaRichard/Part-1-Azure-Cloud-Detection.git">Part 1: Azure Cloud Detection</a>
-  </b></li>
-  <li><b>
     <a href="https://github.com/OlojaRichard/Deploying-Virtual-Machines-in-a-Virtual-Network-Infrastructure.git">Deploying Virtual Machines in a Virtual Network Infrastructure</a>
   </b></li>
   <li><b>

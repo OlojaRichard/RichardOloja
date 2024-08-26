@@ -27,6 +27,7 @@
   <li>(ISC)2 Certified in Cybersecurity (ISC2 CC)</li>
   <li>GRC MasterClass Certificate</li>
   <li>Google Cybersecurity Professional Certificate</li>
+  <li>ISO/IEC 27001 Certificate</li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>

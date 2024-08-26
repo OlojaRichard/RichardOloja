@@ -26,10 +26,10 @@
 <h2>🧾 Certifications</h2>
 
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=a83ASGn_V_s">Security+ Certified (CompTIA)</a></li>
-  <li><a href="https://www.youtube.com/watch?v=a83ASGn_V_s">(ISC)2 Certified in Cybersecurity (ISC2 CC)</a></li>
-  <li><a href="https://www.youtube.com/watch?v=a83ASGn_V_s">GRC MasterClass Certificate</a></li>
-  <li><a href="https://www.youtube.com/watch?v=a83ASGn_V_s">Google Cybersecurity Professional Certificate</a></li>
+  <li>Security+ Certified (CompTIA)</li>
+  <li>(ISC)2 Certified in Cybersecurity (ISC2 CC)</li>
+  <li>GRC MasterClass Certificate</li>
+  <li>Google Cybersecurity Professional Certificate</li>
 </ul>
 
 <h2> 🤳 Connect with me:</h2>

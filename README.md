@@ -4,7 +4,7 @@
 
 <ul>
   <li><b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-    - <a href="https://github.com/joshmadakor1/Algorithms-Practice">Practicing DS & Algos in Python</a>
+    - <a href="https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/OlojaRichard/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-.git">Practicing DS & Algos in Python</a>
   </li>
   <li><b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
     - <a href="https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964">Image Analysis Middleware</a> <b><i>(Potentially NSFW)</i></b>
